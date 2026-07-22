@@ -12,14 +12,17 @@ Welcome everyone and briefly introduce my background.
 ---
 
 ## What is design thinking?
+### And how can we use it to
 
 A structured process for:
 
-- Identifying a meaningful problem
-- Designing an intervention
-- Evaluating its effects
-- Improving it through iteration
+<ul>
+<li class="fragment">Identifying a meaningful problem</li>
+<li class="fragment">Designing an intervention</li>
+<li class="fragment">Evaluating its effects</li>
+<li class="fragment">Improving it through iteration</li>
 
+</ul>
 Notes:
 Emphasize that the process begins with the problem rather than with a favored instructional tool.
 
