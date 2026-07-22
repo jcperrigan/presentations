@@ -1,0 +1,199 @@
+/* =========================================================
+   GLOBAL THEME SETTINGS
+   ========================================================= */
+
+:root {
+  --r-background-color: #f8f6f1;
+
+  --r-main-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --r-main-font-size: 36px;
+  --r-main-color: #292929;
+
+  --r-heading-font: Georgia, "Times New Roman", serif;
+  --r-heading-color: #813c36;
+  --r-heading-font-weight: 600;
+  --r-heading-text-transform: none;
+  --r-heading-letter-spacing: -0.02em;
+
+  --r-link-color: #356477;
+  --r-link-color-dark: #284b59;
+  --r-link-color-hover: #813c36;
+
+  --r-selection-background-color: #d9b7a8;
+  --r-selection-color: #292929;
+}
+
+
+/* =========================================================
+   BASIC SLIDE TYPOGRAPHY
+   ========================================================= */
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal h1 {
+  font-size: 2.1em;
+  line-height: 1.05;
+}
+
+.reveal h2 {
+  font-size: 1.55em;
+  line-height: 1.1;
+  margin-bottom: 0.7em;
+}
+
+.reveal h3 {
+  font-size: 1.05em;
+  margin-bottom: 0.4em;
+}
+
+.reveal p,
+.reveal li {
+  line-height: 1.35;
+}
+
+.reveal li {
+  margin-bottom: 0.35em;
+}
+
+.reveal strong {
+  color: #813c36;
+}
+
+
+/* =========================================================
+   REUSABLE SLIDE TYPES
+   ========================================================= */
+
+.reveal .centered {
+  text-align: center;
+}
+
+.reveal .title-slide {
+  text-align: center;
+}
+
+.reveal .title-slide h1 {
+  margin-bottom: 0.4em;
+}
+
+.reveal .section-title {
+  text-align: center;
+}
+
+.reveal .small {
+  font-size: 0.7em;
+}
+
+.reveal .tiny {
+  font-size: 0.55em;
+}
+
+.reveal .muted {
+  color: #6b6b6b;
+}
+
+.reveal .accent {
+  color: #813c36;
+}
+
+
+/* =========================================================
+   LAYOUTS
+   ========================================================= */
+
+.reveal .columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.reveal .columns.top {
+  align-items: start;
+}
+
+.reveal .columns-40-60 {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.reveal .columns-60-40 {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+
+/* =========================================================
+   TABLES
+   ========================================================= */
+
+.reveal table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8em;
+}
+
+.reveal th {
+  color: #813c36;
+  font-weight: 600;
+}
+
+.reveal th,
+.reveal td {
+  padding: 0.35em 0.55em;
+  border-bottom: 1px solid #cfcac0;
+}
+
+
+/* =========================================================
+   CODE
+   ========================================================= */
+
+.reveal pre {
+  width: 100%;
+  box-shadow: none;
+}
+
+.reveal pre code {
+  max-height: 550px;
+  padding: 1em;
+  border-radius: 0.25em;
+}
+
+.reveal code {
+  font-family: "SFMono-Regular", Consolas, monospace;
+}
+
+
+/* =========================================================
+   MATH
+   ========================================================= */
+
+.reveal .katex-display {
+  margin: 1em 0;
+  font-size: 1.05em;
+}
+
+
+/* =========================================================
+   SOURCES AND FOOTNOTES
+   ========================================================= */
+
+.reveal .source,
+.reveal .footnote {
+  font-size: 0.48em;
+  color: #666;
+  line-height: 1.25;
+}
+
+.reveal .source {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
