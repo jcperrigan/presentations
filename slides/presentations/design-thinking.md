@@ -21,8 +21,8 @@ A structured process for:
 <li class="fragment">Designing an intervention</li>
 <li class="fragment">Evaluating its effects</li>
 <li class="fragment">Improving it through iteration</li>
-
 </ul>
+
 Notes:
 Emphasize that the process begins with the problem rather than with a favored instructional tool.
 
