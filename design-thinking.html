@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    >
+
+    <!-- CHANGE THIS FOR EACH PRESENTATION -->
+    <title>Design Thinking in Teaching</title>
+
+    <!-- Reveal's essential structural CSS -->
+    <link rel="stylesheet" href="dist/reveal.css">
+
+    <!-- Built-in base theme -->
+    <link rel="stylesheet" href="dist/theme/white.css">
+
+    <!-- Syntax-highlighting theme -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+    <!-- Your reusable custom theme -->
+    <link rel="stylesheet" href="css/jessica.css">
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides">
+
+        <!-- CHANGE THE MARKDOWN FILENAME FOR EACH PRESENTATION -->
+        <section
+          data-markdown="slides/presentations/design-thinking.md"
+          data-separator="^---$"
+          data-separator-vertical="^--$"
+          data-separator-notes="^Notes?:"
+          data-charset="utf-8"
+        ></section>
+
+      </div>
+    </div>
+
+    <script type="module">
+      import Reveal from "./dist/reveal.mjs";
+
+      import Markdown from "./dist/plugin/markdown.mjs";
+      import Highlight from "./dist/plugin/highlight.mjs";
+      import Notes from "./dist/plugin/notes.mjs";
+      import Math from "./dist/plugin/math.mjs";
+      import Search from "./dist/plugin/search.mjs";
+      import Zoom from "./dist/plugin/zoom.mjs";
+
+      Reveal.initialize({
+        hash: true,
+        slideNumber: "c/t",
+
+        controls: true,
+        progress: true,
+        center: true,
+
+        transition: "slide",
+        backgroundTransition: "fade",
+
+        plugins: [
+          Markdown,
+          Highlight,
+          Notes,
+          Math.KaTeX,
+          Search,
+          Zoom
+        ]
+      });
+    </script>
+  </body>
+</html>
