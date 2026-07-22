@@ -7,7 +7,7 @@ Jessica Perrigan
 University of Nebraska at Omaha
 
 Notes:
-Welcome everyone and briefly introduce my background.
+Your first year is not too early to think about promotion—but that doesn’t mean trying to manufacture an impressive CV immediately. It means making choices now that will produce evidence, expertise, and a coherent professional story later. In industry, we would not say, “I worked very hard on this process and people seemed to like it.” We would identify a problem, develop a product or intervention, test it, collect evidence, and improve it. Instructional design can work the same way. The goal here is for you to walk out with a plan for detecting, investigating, and documenting one potential student-learning problem during their first year.
 
 ---
 
@@ -30,13 +30,14 @@ Emphasize that the process begins with the problem rather than with a favored in
 
 ## The basic process
 
-1. Identify the problem
-2. Understand the people experiencing it
-3. Design a strategy
-4. Measure progress
-5. Iterate
-6. Document the results
-
+<ul>
+<li class="fragment">1. Identify the problem</li>
+<li class="fragment">2. Understand how the students experience it</li>
+<li class="fragment">3. Design a strategy</li>
+<li class="fragment">4. Measure progress</li>
+<li class="fragment">5. Iterate</li>
+<li class="fragment">6. Document the results</li>
+</ul>
 ---
 
 ## An empirical claim
