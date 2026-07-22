@@ -12,7 +12,7 @@ Welcome everyone and briefly introduce my background.
 ---
 
 ## What is design thinking?
-### And how can we use it to
+### And how can we use it to improve student learning?
 
 A structured process for:
 
