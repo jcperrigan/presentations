@@ -1,0 +1,207 @@
+:root {
+  --background: #ffffff;
+  --text: #000000;
+  --heading: #000000;
+  --accent: #333333;
+  --muted: #4d4d4d;
+  --border: #333333;
+  --light-background: #f2f2f2;
+}
+
+body {
+  color: var(--text);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* Headings */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 {
+  border-bottom: 3px solid var(--accent);
+  padding-bottom: 0.25em;
+}
+
+h2 {
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 0.15em;
+}
+
+/* Links remain identifiable without relying on color alone */
+
+a,
+a:visited {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-thickness: 0.1em;
+  text-underline-offset: 0.15em;
+}
+
+a:hover,
+a:focus {
+  color: var(--text);
+  background: #e6e6e6;
+  outline: 2px solid var(--text);
+  outline-offset: 2px;
+}
+
+/* Emphasis */
+
+strong {
+  color: var(--text);
+  font-weight: 700;
+}
+
+em {
+  color: var(--text);
+}
+
+/* Block quotations */
+
+blockquote {
+  color: var(--text);
+  background: var(--light-background);
+  border-left: 5px solid var(--accent);
+  padding: 0.75em 1em;
+  margin: 1em 0;
+}
+
+/* Custom text boxes */
+
+.text-box {
+  color: var(--text);
+  background: var(--background);
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  padding: 0.75em 1em;
+  margin: 1em 0;
+}
+
+/* Quarto callouts */
+
+.callout {
+  color: var(--text);
+  border-color: var(--border);
+}
+
+.callout .callout-header {
+  color: var(--text);
+  background: var(--light-background);
+  font-weight: 700;
+}
+
+/* Tables */
+
+table {
+  width: 100%;
+  color: var(--text);
+  border-collapse: collapse;
+}
+
+th {
+  color: var(--text);
+  background: var(--light-background);
+  font-weight: 700;
+}
+
+th,
+td {
+  padding: 0.5em;
+  border: 1px solid var(--border);
+}
+
+/* Code */
+
+code {
+  color: var(--text);
+  background: var(--light-background);
+  border: 1px solid #b3b3b3;
+  border-radius: 3px;
+  padding: 0.1em 0.25em;
+}
+
+pre {
+  color: var(--text);
+  background: var(--light-background);
+  border: 1px solid var(--border);
+  padding: 1em;
+}
+
+pre code {
+  border: 0;
+  padding: 0;
+}
+
+/* Captions, footnotes, and secondary text */
+
+figcaption,
+.figure-caption,
+.table-caption,
+.footnotes,
+.small,
+.muted {
+  color: var(--muted);
+}
+
+/* Keyboard navigation */
+
+:focus-visible {
+  outline: 3px solid var(--text);
+  outline-offset: 3px;
+}
+
+/* Printing */
+
+@page {
+  size: letter;
+  margin: 0.75in;
+}
+
+@media print {
+  body {
+    color: #000000;
+    background: #ffffff;
+    font-size: 11pt;
+  }
+
+  #TOC {
+    display: none;
+  }
+
+  a,
+  a:visited {
+    color: #000000;
+    text-decoration: underline;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000000;
+    break-after: avoid;
+  }
+
+  table,
+  figure,
+  blockquote,
+  .text-box,
+  .callout {
+    break-inside: avoid;
+  }
+}

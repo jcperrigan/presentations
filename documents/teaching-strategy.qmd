@@ -1,0 +1,44 @@
+---
+title: "Developing a Teaching Strategy"
+subtitle: "A Design-Thinking Approach"
+author: "Jessica Perrigan"
+date: today
+---
+
+## Identifying the problem
+
+A useful teaching problem is:
+
+- Specific
+- Observable
+- Consequential
+- Within the instructor’s influence
+
+::: {.text-box}
+**Key idea:** Begin with a problem students are experiencing, not an instructional tool you want to try.
+:::
+
+## Developing an intervention
+
+The proposed intervention should connect directly to the mechanism producing the problem.
+
+For example:
+
+$$
+Y_i = \beta_0 + \beta_1D_i + \varepsilon_i
+$$
+
+## Evidence
+
+| Evidence type | Example |
+|---|---|
+| Direct | Student work or assessment results |
+| Indirect | Surveys or student perceptions |
+
+## Next steps
+
+1. Establish a baseline.
+2. Implement the strategy.
+3. Collect evidence.
+4. Compare results.
+5. Iterate.

@@ -1,0 +1,17 @@
+format:
+  html:
+    theme: cosmo
+    css: document.css
+    toc: true
+    toc-title: Contents
+    number-sections: false
+    embed-resources: true
+    html-math-method: katex
+    code-fold: false
+
+execute:
+  echo: false
+  warning: false
+  message: false
+
+lang: en

@@ -98,6 +98,18 @@
   color: #813c36;
 }
 
+.reveal .blank.short {
+  min-width: 5em;
+}
+
+.reveal .blank.medium {
+  min-width: 8em;
+}
+
+.reveal .blank.long {
+  min-width: 13em;
+}
+
 
 /* =========================================================
    LAYOUTS
