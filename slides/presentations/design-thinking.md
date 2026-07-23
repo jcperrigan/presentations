@@ -21,10 +21,11 @@ Time	Format	Content
 
 ---
 
-## What is design thinking?
-### And how can we use it to improve student learning?
+## What is design thinking (in educational settings)?
 
+<div class="fragment">
 A structured process for:
+</div>
 
 <ul>
 <li class="fragment">Identifying a meaningful problem</li>
@@ -48,20 +49,23 @@ What they should preserve for annual review and promotion
 
 ## The basic process
 
-<ul>
-<li class="fragment">1. Choose where to pay attention</li>
-<li class="fragment">2. Establish a baseline</li>
-<li class="fragment">3. Diagnose the problem</li>
-<li class="fragment">4. Design an aligned intervention</li>
-<li class="fragment">5. Collect evidence</li>
-<li class="fragment">6. Compare and iterate</li>
-<li class="fragment">7. Document the process</li>
-</ul>
+<ol>
+<li class="fragment">Choose where to pay attention</li>
+<li class="fragment">Establish a baseline</li>
+<li class="fragment">Diagnose the problem</li>
+<li class="fragment">Design an aligned intervention</li>
+<li class="fragment">Collect evidence</li>
+<li class="fragment">Compare and iterate</li>
+<li class="fragment">Document the process</li>
+</ol>
 ---
 
 ## Choose where to pay attention
 
+<div class="fragment">
 A useful teaching problem is:
+</div>
+
 <ul>
 <li class="fragment">Specific</li>
 <li class="fragment">Observable</li>
@@ -71,9 +75,9 @@ A useful teaching problem is:
 
 <div class="fragment">
 
-**Begin with a hypothesis:**
+<strong>Begin with a hypothesis:</strong>
 
-I suspect students may have difficulty with <span class="blank long"></span> because <span class="blank long"></span>.
+I suspect students may have difficulty with <span class="blank">&nbsp;</span> because <span class="blank">&nbsp;</span>.
 
 </div>
 
@@ -98,20 +102,199 @@ This is a place to investigate, not yet a diagnosed problem.
 
 ## Establish a baseline
 
-
+<ul>
+<li class="fragment">First implementation as the baseline</li>
+<li class="fragment">An early authentic task</li>
+<li class="fragment">An early assignment</li>
+<li class="fragment">An embedded diagnostic</li>
+<li class="fragment">A formal pre/post assessment</li>
+</ul>
 
 Notes:
+
+A baseline is a reasonably systematic description of what students can do before/  without the instructional intervention you want to evaluate.
+
+The best baseline is not the most sophisticated one. It is the simplest evidence that will help you make the teaching decision in front of you.
+
+When I say “establish a baseline,” I do not necessarily mean giving students a formal pre-test. I mean deciding how you will describe the current state before you change something. That could be a pre-test, an early work sample, selected rubric rows, an embedded diagnostic, or simply your first documented implementation of the course. The goal is to create a meaningful point of comparison so that, when you make a change, you have something more than memory and intuition to compare it with.
+
+A baseline can answer different questions
+
+Before choosing a method, faculty should identify what they need the baseline to represent:
+
+What knowledge do students bring into the course?
+What can they do before receiving instruction on a particular topic?
+How do they currently perform under the existing teaching strategy?
+Where within an assignment or SLO do they encounter difficulty?
+What happens in the first implementation before the course is redesigned?
+
+Those require different baseline methods.
+
+**First implementation as the baseline**
+
+For brand-new faculty, this is often the most realistic option.
+
+Teach the course once, preserve the initial materials, and systematically document what happens. The first offering becomes the baseline for the next iteration.
+
+They might retain:
+
+Assignment and assessment materials
+SLO- or question-level performance
+Rubric-row results
+Common errors
+Submission and completion patterns
+Representative deidentified work
+Structured student feedback
+A brief reflection on what appeared to work or fail
+
+This is not as strong as a pre/post comparison for estimating learning, but it is much better than trying to reconstruct the first semester from memory two years later.
+
+Important qualification:
+
+The first offering should be treated as a baseline version, not a control group. Differences in later semesters may reflect different students or circumstances as well as the instructional change.
+
+**An early authentic task**
+
+Give students a small version of something they will need to do later.
+
+Examples:
+
+Interpret a graph before formal instruction
+Analyze a short passage
+Write a tentative thesis
+Solve one representative problem
+Evaluate a source
+Explain a concept in plain language
+Draft one component of the final project
+Perform a short laboratory or technical procedure
+
+Later, ask students to perform a comparable task and assess both using the same criteria.
+
+This is often more approachable than a formal pre-test because it can be:
+
+Low stakes
+Brief
+Embedded in normal instruction
+Directly connected to an SLO
+Assessed with an existing rubric
+
+The baseline does not need to be graded for correctness. Participation credit may be sufficient.
+
+**Baseline performance on an early assignment**
+
+If a course contains recurring skills, the first relevant assignment can serve as the baseline.
+
+For example:
+
+First lab report compared with a later lab report
+First source analysis compared with the final research project
+First presentation compared with a later presentation
+First written interpretation compared with later interpretations
+First application problem compared with a later transfer problem
+
+The critical requirement is comparability:
+
+Are the two tasks measuring substantially the same skill, using substantially the same criteria?
+
+Faculty should use the same rubric rows or SLO categories rather than compare only total grades. The second assignment may be harder, weighted differently, or contain different skills, making raw totals misleading.
+
+**An embedded diagnostic**
+
+A diagnostic can be inserted into an existing activity rather than administered as a separate exam.
+
+Examples:
+
+Add three prerequisite questions to the first quiz.
+Include one ungraded application question before teaching the unit.
+Ask students to annotate where they feel uncertain in a process.
+Include a “show your reasoning” component.
+Add an initial rubric-scored checkpoint to a larger project.
+
+This works well when faculty have identified one narrow area to investigate. They do not need a comprehensive test of everything students might learn.
+
+**A formal pre/post assessment**
+
+This is the method you can demonstrate through the “adjusting for guessing” paper.
+
+A pre/post design is especially useful when:
+
+The course has clearly defined knowledge outcomes.
+The same concepts can be measured before and after instruction.
+Selected-response questions are appropriate.
+Faculty want to distinguish types of learning at the item or SLO level.
+
+You can introduce the distinction between:
+
+Positive learning: incorrect before, correct afterward
+Negative learning: correct before, incorrect afterward
+Retained learning: correct both times
+Zero learning: incorrect both times
+
+That is much more diagnostically useful than saying only that the average increased. It also demonstrates why the baseline matters: the post-test alone cannot distinguish what students already knew from what they learned during the course.
+
+But you can tell the audience:
+
+You do not need to begin here. A formal pre/post instrument is one option, and I am available to help you develop or analyze one.
+
+**Baselines for project-based courses**
+
+Faculty teaching writing, performance, clinical, creative, or project-based courses may reasonably think that pre-tests do not fit their teaching.
+
+For them, a baseline can be:
+
+An early work sample scored with selected rubric rows
+A proposal or project plan
+An initial demonstration of a recurring skill
+A brief performance or presentation
+An annotated example
+A first draft
+A short transfer task
+A portfolio artifact from the beginning of the course
+
+The rubric-based method you plan to introduce is particularly relevant here. It can help faculty examine which dimensions of a complex performance are most difficult instead of relying on the overall project grade.
+
+**Indirect evidence as baseline evidence**
+
+Student perceptions can provide a useful baseline, but they answer different questions from student work.
+
+Indirect baseline evidence might include:
+
+Confidence
+Prior exposure
+Perceived preparedness
+Anticipated difficulty
+Sense of belonging
+Study strategies
+Experience with a particular tool or task
+
+For example:
+
+“Only 20% of students report confidence interpreting regression output” is evidence about confidence, not evidence that 80% cannot interpret regression output.
+
+Indirect evidence is most useful for:
+
+Understanding the student experience
+Generating possible explanations
+Comparing perceptions with demonstrated performance
+Identifying barriers that assessments may not reveal
+
+Ideally, it supports rather than replaces direct evidence.
 ---
 
 ## Diagnose the problem
 
+<div class="fragment">
 Poor performance identifies where to investigate, but not necessarily why students struggled.
+</div>
 
 <div class="fragment">
 
-**The critical prompt is: What evidence would help distinguish among these explanations?**
+<strong>The critical prompt is:</strong>
+
+What evidence would help distinguish among these explanations?
 
 </div>
+
 
 Notes:
 Ask participants to consider alternatives:
@@ -129,7 +312,9 @@ An assessment that does not measure the intended SLO
 
 ## Design an aligned intervention
 
+<div class="fragment">
 For example: Students perform the statistical analysis correctly but consistently lose points on the rubric row measuring interpretation of results.
+</div>
 
 <ul>
 <li class="fragment">What are possible explanations?</li>
@@ -137,8 +322,9 @@ For example: Students perform the statistical analysis correctly but consistentl
 <li class="fragment">What intervention would correspond to each explanation?</li>
 </ul>
 
-<div class="fragment">
-**The intervention should connect directly to the mechanism producing the problem.**
+<div class="fragment"><strong>
+The intervention should connect directly to the mechanism producing the problem.
+</strong>
 </div>
 
 Notes:
@@ -203,22 +389,19 @@ Particular rubric dimensions
 The original and revised course offering
 Two versions of the same instructional product
 ---
+<!-- .slide: class="small-text" data-state="hide-logo" -->
 
 ## Compare and iterate
 
 <ul>
-<li class="fragment">Expected improvement: Retain the core intervention and continue testing.</li>
-<li class="fragment">Partial improvement: Identify which component should be revised.</li>
-<li class="fragment">No improvement: Reconsider the intervention or the original diagnosis.</li>
-<li class="fragment">Unexpected result: Investigate what the evidence reveals about the problem.</li>
-<li class="fragment">Mixed evidence: Examine whether the intervention worked differently for different SLOs, tasks, or students.</li>
+<li class="fragment"><strong>Expected improvement:</strong> Retain the core intervention and continue testing.</li>
+<li class="fragment"><strong>Partial improvement:</strong> Identify which component should be revised.</li>
+<li class="fragment"><strong>No improvement:</strong> Reconsider the intervention/ original diagnosis.</li>
+<li class="fragment"><strong>Unexpected result:</strong> Investigate what the evidence reveals about the problem.</li>
+<li class="fragment"><strong>Mixed evidence:</strong> Examine whether the intervention worked differently for different SLOs, tasks, or students.</li>
 </ul>
 
-<div class="fragment">
-What did we learn, and what should the next version change?
-</div>
-
-Notes: 
+Notes:
 The sequence is:
 
 Establish a baseline.
@@ -227,6 +410,8 @@ Collect evidence.
 Compare results.
 Interpret what happened.
 Retain, revise, or replace the strategy.
+
+What did we learn, and what should the next version change?
 
 ---
 
@@ -261,3 +446,26 @@ Original and revised versions
 Write at the end:
 A short teaching-development memo/ reflection
 ---
+
+
+## Get in touch!
+
+[jperrigan@unomaha.edu](mailto:jperrigan@unomaha.edu)
+
+[My Calendly Link](https://calendly.com/jperrigan/30min)
+
+</div>
+
+<div>
+
+<a href="https://calendly.com/jperrigan/30min">
+  <img
+    src="images/office-hours-qr.png"
+    alt="QR code linking to Jessica Perrigan’s Calendly scheduling page"
+    class="qr-code"
+  >
+</a>
+
+</div>
+
+</div>
