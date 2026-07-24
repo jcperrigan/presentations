@@ -1,0 +1,170 @@
+---
+title: "A Design-Thinking Approach to Improve Student Learning"
+format:
+  html:
+    toc: false
+    embed-resources: true
+    page-layout: full
+    theme: none
+    css:
+      - ../css/jessica.css
+      - ../css/teaching-workshop-worksheet.css
+---
+
+::: {.process aria-label="Seven-step teaching development process"}
+<div>1<br>Identify</div>
+<div>2<br>Baseline</div>
+<div>3<br>Diagnose</div>
+<div>4<br>Design</div>
+<div>5<br>Measure</div>
+<div>6<br>Iterate</div>
+<div>7<br>Document</div>
+:::
+
+::: {.today}
+**Today:** Plan what you can now. Use the rest of the process once you have student evidence.
+:::
+
+## 1 Individual work: Identify a problem and plan a baseline [4 minutes]{.timing}
+
+::: {.box}
+<p class="label">Course, student population, or learning context</p>
+<div class="write-line"></div>
+<div class="write-line"></div>
+
+<p class="label">Where might students encounter difficulty?</p>
+<p class="helper">Choose a challenging SLO, assignment, prerequisite skill, transfer task, multistep process, or historically difficult concept.</p>
+<div class="write-line"></div>
+<div class="write-line"></div>
+
+
+<p class="label">Your provisional hypothesis</p>
+<p class="helper">I suspect students may have difficulty with _____ because _____.</p>
+<div class="write-line"></div>
+<div class="write-line"></div>
+:::
+
+:::: {.box}
+::: {.instruction}
+<strong>A baseline</strong> is the simplest reasonably systematic description of what students know, can do, or experience before/ without the intervention.</p>
+:::
+::::
+
+::: {.baseline-options}
+<div>☐ First documented course offering</div>
+<div>☐ Early authentic task or assignment</div>
+<div>☐ Embedded diagnostic</div>
+<div>☐ Formal pre/post assessment</div>
+<div>☐ Selected rubric dimensions</div>
+<div>☐ Existing course/program evidence</div>
+:::
+
+
+:::: {.prompt-grid}
+::: {.prompt-item}
+<p class="label">What should the baseline reveal?</p>
+<p class="helper">What do you need to understand before intervening?</p>
+<div class="write-line"></div>
+<div class="write-line"></div>
+:::
+::: {.prompt-item}
+<p class="label">When and how will you capture it?</p>
+<p class="helper">Keep it feasible within your normal teaching workflow.</p>
+<div class="write-line"></div>
+<div class="write-line"></div>
+:::
+::::
+
+::: {.page-break}
+:::
+
+## 2 Pair discussion: Diagnose and design [7 minutes]{.timing}
+
+::: {.instruction}
+Take turns. Briefly explain your suspected problem and baseline plan. Your partner should help you question the diagnosis.
+:::
+
+:::: {.prompt-grid}
+
+::: {.prompt-item}
+<p class="label">Possible explanations</p>
+<p class="helper">What are a couple reasons that students might struggle?</p>
+<div class="write-line"></div><div class="write-line"></div>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Distinguishing evidence</p>
+<p class="helper">What could tell you which explanation is more likely</p>
+<div class="write-line"></div><div class="write-line"></div>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Most plausible mechanism to investigate</p>
+<p class="helper">What seems to be producing the problem?</p>
+<div class="write-line"></div><div class="write-line"></div>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Possible aligned intervention</p>
+<p class="helper">What might help students improve?</p>
+<div class="write-line"></div><div class="write-line"></div>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Expected change if the intervention works</p>
+<p class="helper">What should students do differently?</p>
+<div class="write-line"></div><div class="write-line"></div>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Partner challenge</p>
+<p class="helper">Alternative explanations/ practical constraints/ unstated assumptions?</p>
+<div class="write-line"></div><div class="write-line"></div>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::::
+
+<p class="helper">**Design principle:** Begin with a problem students are experiencing. The intervention should connect directly to the mechanism producing the problem.</p>
+
+
+## 3 Individual reflection: Evidence and documentation [4 minutes]{.timing}
+
+:::: {.prompt-grid}
+
+::: {.prompt-item}
+<p class="label">Evidence of learning</p>
+<p class="helper">What direct evidence could show what students can do? What indirect evidence might add context?</p>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Comparison and iteration</p>
+<p class="helper">What will you compare with the baseline? What finding would make you retain, revise, or rethink the intervention?</p>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Documentation habit</p>
+<p class="helper">What's your plan for documentation storage?</p>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::: {.prompt-item}
+<p class="label">Career and service horizon</p>
+<p class="helper">What expertise might this work build? Who else at UNO might eventually benefit from it?</p>
+<div class="write-line"></div><div class="write-line"></div>
+:::
+
+::::
+
+::: {.box}
+<p class="label">Your first-year commitment</p>
+
+The first thing I will do is _____________________________________________________________________
+:::

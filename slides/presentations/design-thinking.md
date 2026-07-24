@@ -9,58 +9,77 @@ University of Nebraska at Omaha
 Notes:
 Your first year is not too early to think about promotion—but that doesn’t mean trying to manufacture an impressive CV immediately. It means making choices now that will produce evidence, expertise, and a coherent professional story later. In industry, we would not say, “I worked very hard on this process and people seemed to like it.” We would identify a problem, develop a product or intervention, test it, collect evidence, and improve it. Instructional design can work the same way. The goal here is for you to walk out with a plan for detecting, investigating, and documenting one potential student-learning problem during their first year.
 
-Time	Format	Content
-0–3 min:	Your background, design thinking, and the career-development argument
-6–11 min Individual activity: Choose where to pay attention and plan how to establish a baseline
-11–14 min	Pair discussion: Refine the provisional problem and consider alternative explanations
-14–18 min	Facilitated case: Connect diagnosis, intervention, and evidence
-18–22 min	Individual activity: Develop a prospective evidence and decision plan
-22–25 min	Presentation/discussion: Iteration and what different findings might mean
-25–28 min	Individual activity: Create a documentation habit and bounded first-year step
-28–30 min	Closing: Career/service connection, assessment tools, email, and Calendly
+Time	Activity
+0–5 min:	Career framing and seven-step process
+5–9 min:	Individual worksheet, page 1
+9–13 min:	Explain diagnosis and aligned interventions
+13–20 min:	Pair discussion, page 2
+20–24 min:	Explain direct evidence, iteration, and documentation
+24–27 min:	Individual reflection, page 2
+27–30 min:	Assessment tools, career/service connection, and contact slide
 
 ---
+<!-- .slide: class="small-text"  -->
 
-## What is design thinking (in educational settings)?
+## The big picture
 
 <div class="fragment">
-A structured process for:
+A full teaching load means your teaching, professional development, documentation, and service can't all be separate projects. The most sustainable approach is to develop expertise through the instructional problems you already need to solve.
 </div>
 
-<ul>
-<li class="fragment">Identifying a meaningful problem</li>
-<li class="fragment">Designing an intervention</li>
-<li class="fragment">Evaluating its effects</li>
-<li class="fragment">Improving it through iteration</li>
-</ul>
+<div class="spacer"></div>
+<div class="fragment">
+Benefits:
+</div>
+
+<div class="fragment">
+<ol>
+<li class="fragment">A better instructional product</li>
+<li class="fragment">Evidence of student learning</li>
+<li class="fragment">Documentation for annual review and promotion</li>
+<li class="fragment">Expertise you can leverage through service</li>
+</ol>
+
+</div>
 
 Notes:
-Emphasize that the process begins with the problem rather than with a favored instructional tool.
+1 minute
+- With a full teaching load, you do not have time to repeatedly redesign courses based on vague impressions. You need to identify the actual problem, make a bounded change, and collect evidence that helps you decide what to do next.
 
-3–6 min:	Introduce the seven-step teaching-development process
+- Use a repeatable, evidence-based process to improve the teaching work already on your plate. That process simultaneously improves your courses, generates documentation, establishes an area of expertise, and creates pathways into meaningful service.
 
+- While I'm going to be discussing ideas of design thinking here, this isn't really a "design thinkig event."  Design thinking is the mechanism for answering the advertised career question: How do you build a promotable body of teaching and service work when your full teaching load leaves little room for separate career-building projects?
+
+The idea is that:
+
+- Evidence-based iteration is workload management.
+
+- Data strategy is not extra work added to teaching. It reduces wasted work by helping instructors decide where to intervene and whether to continue.
+
+--
+
+## The design thinking process
+
+<ol>
+<li class="fragment">Identify a meaningful problem</li>
+<li class="fragment">Establish a baseline</li>
+<li class="fragment">Diagnose the problem</li>
+<li class="fragment">Design an intervention</li>
+<li class="fragment">Collect evidence</li>
+<li class="fragment">Compare and iterate</li>
+<li class="fragment">Document the process</li>
+</ol>
+
+Notes:
+0.5 minutes
 The workshop should distinguish between:
 
 What they can plan now
 What they will do once they have students and evidence
 What they should preserve for annual review and promotion
-
 ---
 
-## The basic process
-
-<ol>
-<li class="fragment">Choose where to pay attention</li>
-<li class="fragment">Establish a baseline</li>
-<li class="fragment">Diagnose the problem</li>
-<li class="fragment">Design an aligned intervention</li>
-<li class="fragment">Collect evidence</li>
-<li class="fragment">Compare and iterate</li>
-<li class="fragment">Document the process</li>
-</ol>
----
-
-## Choose where to pay attention
+## Identify a meaningful problem
 
 <div class="fragment">
 A useful teaching problem is:
@@ -73,6 +92,8 @@ A useful teaching problem is:
 <li class="fragment">Within the instructor’s influence</li>
 </ul>
 
+<div class="spacer"></div>
+
 <div class="fragment">
 
 <strong>Begin with a hypothesis:</strong>
@@ -82,21 +103,21 @@ I suspect students may have difficulty with <span class="blank">&nbsp;</span> be
 </div>
 
 Notes:
+1.5 minutes
+
 This is not necessarily a literal causal-estimation exercise. The point is that adopting an intervention implies an expected improvement.
 
 Possible places to look:
 
-A challenging SLO
-A major assignment
-A prerequisite skill
-A transition from theory to application
-A multistep task
-A historically difficult course or concept
-Something previous instructors identify as difficult
+- A challenging SLO
+- A major assignment
+- A prerequisite skill
+- A transition from theory to application
+- A multistep task
+- A historically difficult course or concept
+- Something previous instructors identify as difficult
 
-Emphasize:
-
-This is a place to investigate, not yet a diagnosed problem.
+Emphasize: This is a place to investigate, not yet a diagnosed problem.
 
 ---
 
@@ -111,47 +132,47 @@ This is a place to investigate, not yet a diagnosed problem.
 </ul>
 
 Notes:
+2 minutes
+- A baseline is a reasonably systematic description of what students can do before/  without the instructional intervention you want to evaluate.
 
-A baseline is a reasonably systematic description of what students can do before/  without the instructional intervention you want to evaluate.
+- The best baseline is not the most sophisticated one. It is the simplest evidence that will help you make the teaching decision in front of you.
 
-The best baseline is not the most sophisticated one. It is the simplest evidence that will help you make the teaching decision in front of you.
+When I say “establish a baseline,” I don't necessarily mean giving students a formal pre-test. I mean deciding how you will describe the current state before you change something.
 
-When I say “establish a baseline,” I do not necessarily mean giving students a formal pre-test. I mean deciding how you will describe the current state before you change something. That could be a pre-test, an early work sample, selected rubric rows, an embedded diagnostic, or simply your first documented implementation of the course. The goal is to create a meaningful point of comparison so that, when you make a change, you have something more than memory and intuition to compare it with.
+- That could be a pre-test, an early work sample, selected rubric rows, an embedded diagnostic, or your first documented implementation of the course.
 
-A baseline can answer different questions
+- The goal is to create a meaningful point of comparison so that, when you make a change, you have something more than memory and intuition to compare it with.
+
+- A baseline can answer different questions
 
 Before choosing a method, faculty should identify what they need the baseline to represent:
 
-What knowledge do students bring into the course?
-What can they do before receiving instruction on a particular topic?
-How do they currently perform under the existing teaching strategy?
-Where within an assignment or SLO do they encounter difficulty?
-What happens in the first implementation before the course is redesigned?
+- What knowledge do students bring into the course?
+- What can they do before receiving instruction on a particular topic?
+- How do they currently perform under the existing teaching strategy?
+- Where within an assignment or SLO do they encounter difficulty?
+- What happens in the first implementation before the course is redesigned?
 
 Those require different baseline methods.
 
 **First implementation as the baseline**
 
-For brand-new faculty, this is often the most realistic option.
-
-Teach the course once, preserve the initial materials, and systematically document what happens. The first offering becomes the baseline for the next iteration.
+- For brand-new faculty, this is often the most realistic option.
+- Teach the course once, preserve the initial materials, and systematically document what happens. The first offering becomes the baseline for the next iteration.
 
 They might retain:
-
-Assignment and assessment materials
-SLO- or question-level performance
-Rubric-row results
-Common errors
-Submission and completion patterns
-Representative deidentified work
-Structured student feedback
-A brief reflection on what appeared to work or fail
-
-This is not as strong as a pre/post comparison for estimating learning, but it is much better than trying to reconstruct the first semester from memory two years later.
+- Assignment and assessment materials
+- SLO- or question-level performance
+- Rubric-row results
+- Common errors
+- Submission and completion patterns
+- Representative deidentified work
+- Structured student feedback
+- A brief reflection on what appeared to work or fail
 
 Important qualification:
 
-The first offering should be treated as a baseline version, not a control group. Differences in later semesters may reflect different students or circumstances as well as the instructional change.
+- The first offering should be treated as a baseline version, not a control group. Differences in later semesters may reflect different students or circumstances as well as the instructional change.
 
 **An early authentic task**
 
@@ -159,42 +180,25 @@ Give students a small version of something they will need to do later.
 
 Examples:
 
-Interpret a graph before formal instruction
-Analyze a short passage
-Write a tentative thesis
-Solve one representative problem
-Evaluate a source
-Explain a concept in plain language
-Draft one component of the final project
-Perform a short laboratory or technical procedure
+- Interpret a graph before formal instruction
+- Analyze a short passage
+- Perform a short laboratory or technical procedure
 
 Later, ask students to perform a comparable task and assess both using the same criteria.
-
-This is often more approachable than a formal pre-test because it can be:
-
-Low stakes
-Brief
-Embedded in normal instruction
-Directly connected to an SLO
-Assessed with an existing rubric
 
 The baseline does not need to be graded for correctness. Participation credit may be sufficient.
 
 **Baseline performance on an early assignment**
 
-If a course contains recurring skills, the first relevant assignment can serve as the baseline.
+Or if a course contains recurring skills, the first relevant assignment can serve as the baseline.
 
 For example:
 
-First lab report compared with a later lab report
-First source analysis compared with the final research project
-First presentation compared with a later presentation
-First written interpretation compared with later interpretations
-First application problem compared with a later transfer problem
+- First lab report compared with a later lab report
+- First source analysis compared with the final research project
+- First application problem compared with a later transfer problem
 
-The critical requirement is comparability:
-
-Are the two tasks measuring substantially the same skill, using substantially the same criteria?
+The critical requirement is comparability: Are the two tasks measuring substantially the same skill, using substantially the same criteria?
 
 Faculty should use the same rubric rows or SLO categories rather than compare only total grades. The second assignment may be harder, weighted differently, or contain different skills, making raw totals misleading.
 
@@ -204,54 +208,38 @@ A diagnostic can be inserted into an existing activity rather than administered 
 
 Examples:
 
-Add three prerequisite questions to the first quiz.
-Include one ungraded application question before teaching the unit.
-Ask students to annotate where they feel uncertain in a process.
-Include a “show your reasoning” component.
-Add an initial rubric-scored checkpoint to a larger project.
+- Add three prerequisite questions to the first quiz.
+- Include one ungraded application question before teaching the unit.
+- Ask students to annotate where they feel uncertain in a process.
+- Include a “show your reasoning” component.
 
-This works well when faculty have identified one narrow area to investigate. They do not need a comprehensive test of everything students might learn.
+This works well when faculty have identified one narrow area to investigate.
 
 **A formal pre/post assessment**
 
-This is the method you can demonstrate through the “adjusting for guessing” paper.
-
 A pre/post design is especially useful when:
 
-The course has clearly defined knowledge outcomes.
-The same concepts can be measured before and after instruction.
-Selected-response questions are appropriate.
-Faculty want to distinguish types of learning at the item or SLO level.
+- The course has clearly defined knowledge outcomes.
+- The same concepts can be measured before and after instruction.
+- Selected-response questions are appropriate.
+- Faculty want to distinguish types of learning at the item or SLO level.
 
 You can introduce the distinction between:
 
-Positive learning: incorrect before, correct afterward
-Negative learning: correct before, incorrect afterward
-Retained learning: correct both times
-Zero learning: incorrect both times
+- Positive learning: incorrect before, correct afterward
+- Negative learning: correct before, incorrect afterward
+- Retained learning: correct both times
+- Zero learning: incorrect both times
 
 That is much more diagnostically useful than saying only that the average increased. It also demonstrates why the baseline matters: the post-test alone cannot distinguish what students already knew from what they learned during the course.
 
-But you can tell the audience:
-
-You do not need to begin here. A formal pre/post instrument is one option, and I am available to help you develop or analyze one.
+But you can tell the audience: You do not need to begin here. A formal pre/post instrument is one option, and I am available to help you develop or analyze one.
 
 **Baselines for project-based courses**
 
-Faculty teaching writing, performance, clinical, creative, or project-based courses may reasonably think that pre-tests do not fit their teaching.
+Faculty teaching writing, performance, clinical, creative, or project-based courses may reasonably think that pre-tests do not fit their teaching. If you are using one of the baseline methods for which a rubric is appropriate, we have a way to measure that too!
 
-For them, a baseline can be:
-
-An early work sample scored with selected rubric rows
-A proposal or project plan
-An initial demonstration of a recurring skill
-A brief performance or presentation
-An annotated example
-A first draft
-A short transfer task
-A portfolio artifact from the beginning of the course
-
-The rubric-based method you plan to introduce is particularly relevant here. It can help faculty examine which dimensions of a complex performance are most difficult instead of relying on the overall project grade.
+The rubric-based method you plan to introduce is particularly relevant here. It can help faculty examine which dimensions of a complex performance are most difficult instead of relying on the overall project grade. Ask me for more info :)
 
 **Indirect evidence as baseline evidence**
 
@@ -259,24 +247,19 @@ Student perceptions can provide a useful baseline, but they answer different que
 
 Indirect baseline evidence might include:
 
-Confidence
-Prior exposure
-Perceived preparedness
-Anticipated difficulty
-Sense of belonging
-Study strategies
-Experience with a particular tool or task
+- Confidence
+- Prior exposure
+- Anticipated difficulty
+- Experience with a particular tool or task
 
-For example:
-
-“Only 20% of students report confidence interpreting regression output” is evidence about confidence, not evidence that 80% cannot interpret regression output.
+For example: “Only 20% of students report confidence interpreting regression output” is evidence about confidence, not evidence that 80% cannot interpret regression output.
 
 Indirect evidence is most useful for:
 
-Understanding the student experience
-Generating possible explanations
-Comparing perceptions with demonstrated performance
-Identifying barriers that assessments may not reveal
+- Understanding the student experience
+- Generating possible explanations
+- Comparing perceptions with demonstrated performance
+- Identifying barriers that assessments may not reveal
 
 Ideally, it supports rather than replaces direct evidence.
 ---
@@ -287,9 +270,11 @@ Ideally, it supports rather than replaces direct evidence.
 Poor performance identifies where to investigate, but not necessarily why students struggled.
 </div>
 
+<div class="spacer"></div>
+
 <div class="fragment">
 
-<strong>The critical prompt is:</strong>
+<strong>The critical idea is:</strong>
 
 What evidence would help distinguish among these explanations?
 
@@ -297,18 +282,20 @@ What evidence would help distinguish among these explanations?
 
 
 Notes:
+2 minutes
 Ask participants to consider alternatives:
 
-Missing prerequisite knowledge
-Unclear instructions
-Insufficient practice
-Misalignment between instruction and assessment
-Excessive cognitive load
-Difficulty transferring knowledge
-Lack of timely feedback
-Low perceived relevance
-An assessment that does not measure the intended SLO
+- Missing prerequisite knowledge
+- Unclear instructions
+- Insufficient practice
+- Misalignment between instruction and assessment
+- Excessive cognitive load
+- Difficulty transferring knowledge
+- Lack of timely feedback
+- Low perceived relevance
+- An assessment that does not measure the intended SLO
 ---
+<!-- .slide: class="small-text"  -->
 
 ## Design an aligned intervention
 
@@ -316,11 +303,15 @@ An assessment that does not measure the intended SLO
 For example: Students perform the statistical analysis correctly but consistently lose points on the rubric row measuring interpretation of results.
 </div>
 
+<div class="spacer"></div>
+
 <ul>
 <li class="fragment">What are possible explanations?</li>
 <li class="fragment">What evidence would help distinguish among them?</li>
 <li class="fragment">What intervention would correspond to each explanation?</li>
 </ul>
+
+<div class="spacer"></div>
 
 <div class="fragment"><strong>
 The intervention should connect directly to the mechanism producing the problem.
@@ -328,11 +319,12 @@ The intervention should connect directly to the mechanism producing the problem.
 </div>
 
 Notes:
-Students do not understand what interpretation requires -> Model and annotate strong and weak interpretations
-Students understand examples but cannot perform independently -> Add guided practice with fading scaffolds
-Assignment expectations are unclear -> Revise instructions, rubric language, and exemplars
-Feedback arrives too late -> Add an earlier interpretation checkpoint
-Students lack conceptual understanding -> Add targeted conceptual instruction
+2 minutes
+- Students do not understand what interpretation requires -> Add an assessment that asks them to annotate strong and weak interpretations
+- Students understand examples but cannot perform independently -> Add guided practice with fading scaffolds
+- Assignment expectations are unclear -> Revise instructions, rubric language, and exemplars
+- Feedback arrives too late -> Add an earlier interpretation checkpoint
+- Students lack conceptual understanding -> Add targeted conceptual instruction
 
 This demonstrates your most important intervention principle: The intervention should connect directly to the mechanism producing the problem.
 
@@ -344,8 +336,10 @@ It also reinforces: Begin with a problem students are experiencing, not an instr
 
 ## Collect evidence
 
+
 <div class="columns top">
 <div>
+<div class="fragment">
 
 ### Direct evidence (what students can do)
 
@@ -355,8 +349,10 @@ It also reinforces: Begin with a problem students are experiencing, not an instr
 - Pre/ post tests
 
 </div>
+</div>
 
 <div>
+<div class="fragment">
 
 ### Indirect evidence (what students perceive)
 
@@ -367,14 +363,16 @@ It also reinforces: Begin with a problem students are experiencing, not an instr
 
 </div>
 </div>
+</div>
 
 Notes:
+2 minutes
 A useful measurement plan answers:
 
-What outcome should change if the intervention works?
-What evidence will measure that outcome?
-What will it be compared with?
-When will the evidence be collected?
+- What outcome should change if the intervention works?
+- What evidence will measure that outcome?
+- What will it be compared with?
+- When will the evidence be collected?
 
 Worksheet statement:
 
@@ -382,12 +380,12 @@ If the intervention works, I expect ______ to change. I will examine ______ and 
 
 They may compare:
 
-Pre- and post-assessment results
-Baseline and post-intervention work
-An early and later assignment
-Particular rubric dimensions
-The original and revised course offering
-Two versions of the same instructional product
+- Pre- and post-assessment results
+- Baseline and post-intervention work
+- An early and later assignment
+- Particular rubric dimensions
+- The original and revised course offering
+- Two versions of the same instructional product
 ---
 <!-- .slide: class="small-text" data-state="hide-logo" -->
 
@@ -402,14 +400,15 @@ Two versions of the same instructional product
 </ul>
 
 Notes:
+2 minutes
 The sequence is:
 
-Establish a baseline.
-Implement the strategy.
-Collect evidence.
-Compare results.
-Interpret what happened.
-Retain, revise, or replace the strategy.
+- Establish a baseline.
+- Implement the strategy.
+- Collect evidence.
+- Compare results.
+- Interpret what happened.
+- Retain, revise, or replace the strategy.
 
 What did we learn, and what should the next version change?
 
@@ -423,40 +422,62 @@ What did we learn, and what should the next version change?
 <li class="fragment">Reflect at the end</li>
 </ul>
 
+<div class="spacer"></div>
+
 <div class="fragment">
 This also becomes material for annual review / RFP
 </div>
 
 Notes:
+1.5 minutes
 Save at the beginning:
-Provisional problem or question
-Initial course materials
-SLOs and assessments
-Planned evidence
-Baseline materials or results
+- Provisional problem or question
+- Initial course materials
+- SLOs and assessments
+- Planned evidence
+- Baseline materials or results
 
 Save during implementation:
-Representative student work
-Common errors
-Assessment or rubric results
-Structured student feedback
-Notes about changes made
-Original and revised versions
+- Representative student work
+- Common errors
+- Assessment or rubric results
+- Structured student feedback
+- Notes about changes made
+- Original and revised versions
 
 Write at the end:
-A short teaching-development memo/ reflection
+- A short teaching-development memo/ reflection
+
+DISCIPLINED MESSAGING HERE:
+- Pre/post and rubric-based tools exist.
+- You are available to help.
+- The same process supports teaching, documentation, promotion, and meaningful service.
 ---
 
 
 ## Get in touch!
 
-[jperrigan@unomaha.edu](mailto:jperrigan@unomaha.edu)
+<div class="contact-layout">
 
-[My Calendly Link](https://calendly.com/jperrigan/30min)
+<div class="contact-information">
+
+<p class="contact-label">Email</p>
+
+<p class="contact-email">
+  <a href="mailto:jperrigan@unomaha.edu">
+    jperrigan@unomaha.edu
+  </a>
+</p>
+
+<p class="contact-description">
+  Questions, ideas, or want to talk through an instructional problem?
+</p>
 
 </div>
 
-<div>
+<div class="qr-panel">
+
+<p class="qr-heading">Schedule a conversation</p>
 
 <a href="https://calendly.com/jperrigan/30min">
   <img
@@ -466,6 +487,11 @@ A short teaching-development memo/ reflection
   >
 </a>
 
+<p class="qr-caption">Scan to open Calendly</p>
+
 </div>
 
 </div>
+
+Notes:
+.5 minutes

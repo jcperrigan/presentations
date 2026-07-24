@@ -250,6 +250,25 @@
   align-items: center;
 }
 
+/* =========================================================
+   LINES BETWEEN OBJECTS/ SPACER
+   ========================================================= */
+
+.reveal hr {
+  height: 0;
+  margin: 1em 0;
+  border: 0;
+  border-top: 2px solid var(--uno-gray);
+}
+
+.reveal .column-divider {
+  padding-left: 2rem;
+  border-left: 2px solid var(--uno-gray);
+}
+
+.reveal .spacer {
+  height: 1em;
+}
 
 /* =========================================================
    TABLES
@@ -470,4 +489,75 @@
   .reveal figure {
     break-inside: avoid;
   }
+}
+
+/* =========================================================
+   CONTACT SLIDE
+   ========================================================= */
+
+.reveal .contact-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.7fr);
+  gap: 3rem;
+  align-items: center;
+  margin-top: 1.5em;
+}
+
+.reveal .contact-information {
+  align-self: center;
+}
+
+.reveal .contact-label {
+  color: var(--uno-gray);
+  margin: 0 0 0.25em;
+  font-size: 0.65em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.reveal .contact-email {
+  margin: 0;
+  font-size: 1.15em;
+}
+
+.reveal .contact-description {
+  max-width: 19em;
+  margin-top: 1.25em;
+  color: var(--uno-gray);
+  font-size: 0.7em;
+  line-height: 1.4;
+}
+
+.reveal .qr-panel {
+  justify-self: end;
+  width: 320px;
+  padding: 0.8em;
+  background: var(--uno-light-gray);
+  border-top: 6px solid var(--uno-red);
+  text-align: center;
+}
+
+.reveal .qr-heading {
+  margin: 0 0 0.6em;
+  color: var(--uno-black);
+  font-size: 0.7em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.reveal .contact-qr {
+  display: block;
+  width: 230px !important;
+  height: 230px !important;
+  margin: 0 auto;
+  background: white;
+  object-fit: contain;
+}
+
+.reveal .qr-caption {
+  margin: 0.6em 0 0;
+  color: var(--uno-gray);
+  font-size: 0.5em;
+  text-align: center;
 }

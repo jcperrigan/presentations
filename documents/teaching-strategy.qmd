@@ -18,15 +18,16 @@ A useful teaching problem is:
 **Key idea:** Begin with a problem students are experiencing, not an instructional tool you want to try.
 :::
 
+### 1. Choose where to pay attention 
+
+### 2. Plan how to observe it
+
+### 3. Consider alternative explanations
+
 ## Developing an intervention
 
 The proposed intervention should connect directly to the mechanism producing the problem.
 
-For example:
-
-$$
-Y_i = \beta_0 + \beta_1D_i + \varepsilon_i
-$$
 
 ## Evidence
 
